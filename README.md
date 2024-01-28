@@ -30,5 +30,9 @@
 
 ##
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=EkoAgustina&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=000000&text_color=ffffff&bg_color=181c24)
+
+
+
 
 
