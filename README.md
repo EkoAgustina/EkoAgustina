@@ -7,10 +7,12 @@
 ###
 
 <p align="left">✨ I am Quality Assurance Specialist, highly skilled in process improvements and raising quality standards</p>
+<h2 align="left">https://ekoagustina.github.io/portfolio_react/</h2>
 
-###
 
 <h2 align="left">I have experience with</h2>
+
+
 
 
 <div align="left">
