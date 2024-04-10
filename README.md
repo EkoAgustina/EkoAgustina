@@ -29,8 +29,7 @@
 </div>
 
 ##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkoAgustina&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkoAgustina&layout=pie&count_private=true&theme=vision-friendly-dark&exclude_repo=DataScienceExperiment_Clustering_Regression_WordCountProbablity,PythonAssessment&langs_count=6&hide=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
